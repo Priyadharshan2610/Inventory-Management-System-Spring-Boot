@@ -24,5 +24,10 @@ https://user-images.githubusercontent.com/57248707/122088515-38f7bd00-ce1f-11eb-
 * Thymeleaf
 * MySQL
 * Hibernate
+  
+# Inventory Management System
+Project developed as part of my Java Full Stack submission.
+Includes modules for Add, Update, and Delete operations.
+
 
 ## Project Status: In-Progress 🚧
